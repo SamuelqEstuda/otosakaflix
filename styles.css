@@ -31,8 +31,8 @@ header {
 }
 
 .primeiro-video img {
-    width: 810px; /* Largura da imagem */
-    height: 515px; /* Altura da imagem */
+    width: 710px; /* Largura da imagem */
+    height: 405px; /* Altura da imagem */
     border: 8px solid #0d010e; /* Borda preta em volta da imagem */
     transition: transform 0.5s ease;
 }
